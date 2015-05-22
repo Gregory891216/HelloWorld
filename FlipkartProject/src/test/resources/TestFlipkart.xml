@@ -1,0 +1,12 @@
+<suite name="FlipkartTestSuite">
+	<tests>
+		<test name="FlipkartTest">
+			<classes>
+				<class name="com.flipkart.Test_Flipkart" />
+			</classes>
+		</test>
+		
+
+	</tests>
+
+</suite>

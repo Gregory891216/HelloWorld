@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FlipkartTestSuite]">
+  <test name="FlipkartTest(failed)">
+    <classes>
+      <class name="com.flipkart.Test_Flipkart">
+        <methods>
+          <include name="testng"/>
+        </methods>
+      </class> <!-- com.flipkart.Test_Flipkart -->
+    </classes>
+  </test> <!-- FlipkartTest(failed) -->
+</suite> <!-- Failed suite [FlipkartTestSuite] -->
